@@ -14,7 +14,7 @@ Hi 👋 I am Sehnaaz
 💡 Drink a lot of water ♦️ Hydration check ♦️
 
 📜Languages and frameworks
-React HTML5 CSS3 Python JavaScript C++ Java React Native Spring NodeJS MUI MySQL Figma AWS Netlify Docker TensorFlow PyTorch Keras NumPy
+React HTML5 CSS3 JavaScript Java Spring Figma 
 
 ⚒️ Building my skills on
 LeetCode Hackerrank CodeChef
