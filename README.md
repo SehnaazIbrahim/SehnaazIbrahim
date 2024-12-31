@@ -1,10 +1,27 @@
-# 👋 Hi, I’m @SehnaazIbrahim
 
-- 👀 I’m interested in full-stack development, Data Structures & Algorithms, and building innovative tech solutions.
-- 🌱 I’m currently learning Full-Stack Java, Spring Boot, and Power BI.
-- 💞️ I’m looking to collaborate on projects related to healthcare technology, finance applications, and learning resources for developers.
-- 📫 How to reach me: You can reach me via [LinkedIn] ((https://www.linkedin.com/in/sehnaazibrahim/) or email at sehnaazibrahim@gmail.com.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I’m passionate about solving problems and constantly learning new technologies to improve my skills!
+Hi 👋 I am Sehnaaz
+  I am an aspiring software developer from Coimbatore, India, with a passion for creating impactful solutions in healthcare technology and advancing my skills in Data Structures, Algorithms, and Spring Boot.
+
+
+
+🌱 I’m currently learning:♦️ Java Development |  Japanese (for professional opportunities with Japanese companies)  | Spring Boot | Data Structures and Algorithms (DSA)♦️
+
+🗨️ Ask me about ♦️ Front-end Development |E-commerce Web Development | Smart India Hackathon Projects ♦️
+
+📫 Reach me at sehnaazibrahim@gmail.com
+📜 Get to know me in detail Download 
+
+💡 Drink a lot of water ♦️ Hydration check ♦️
+
+📜Languages and frameworks
+React HTML5 CSS3 Python JavaScript C++ Java React Native Spring NodeJS MUI MySQL Figma AWS Netlify Docker TensorFlow PyTorch Keras NumPy
+
+⚒️ Building my skills on
+LeetCode Hackerrank CodeChef
+
+🤝My Current Partner(IDE)
+Visual Studio Code | IntelliJ IDEA | Eclipse
+
+
 
 
