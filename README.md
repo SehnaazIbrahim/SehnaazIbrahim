@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java Developer from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Ffree-animation%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw1o6tP4AIGaVhwMfGmOudgA&ust=1735715684976000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjbzPj3utGKAxUvUWwGHbrfFVMQjRx6BAgAEBg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&psig=AOvVaw3nloNnMjY4QVpeblTJ1jhx&ust=1735715694460000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjYurv8utGKAxWdZmwGHYPoKgkQjRx6BAgAEBg">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sehnaazibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="sehnaazibrahim" /> </p>
 
