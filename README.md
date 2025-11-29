@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sehnaaz Ibrahim</h1>
-<h3 align="center">A passionate Java Developer from India</h3>
+<h3 align="center">A passionate Java Full Stack Developer </h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sehnaazibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="sehnaazibrahim" /> </p>
 
-- 🌱 I’m currently learning **Java Development | Japanese (for professional opportunities with Japanese companies) | Spring Boot | Data Structures and Algorithms (DSA)**
+- 🌱 I’m currently learning **Java Development | Database | Spring Boot | Data Structures and Algorithms (DSA)**
 
-- 💬 Ask me about **Java , Front-End Devolopment**
+- 💬 Ask me about **Java Full Stack Development, Front-End Devolopment**
 
 - 📫 How to reach me **sehnaazibrahim@gmail.com**
 
